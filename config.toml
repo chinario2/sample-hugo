@@ -1,8 +1,8 @@
 theme = "black-and-light"
 relativeURLs = true
-baseURL = "/"
+baseURL = "https://www.tiangoo.top"
 title = "Hugo Themes"
-author = "Steve Francia"
+author = "TianGoo"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
 languageCode = "en"
