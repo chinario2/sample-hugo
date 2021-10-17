@@ -1,12 +1,12 @@
 theme = "black-and-light"
 relativeURLs = true
 baseURL = "https://www.tiangoo.top"
-title = "Hugo Themes"
+title = "TianGoo Sounds"
 author = "TianGoo"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 3
 languageCode = "en"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 
 [menu]
